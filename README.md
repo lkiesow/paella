@@ -6,7 +6,7 @@ Paella Player is capable of playing multiple audio & video streams synchronously
 
 You can take your first contact with Paella going to [Paella Player Web Page](http://paellaplayer.upv.es).
 
-![Paella Player Logo](http://paellaplayer.upv.es/resources/logo_paella.png)
+![Paella Player Logo](./config/profiles/resources/paella_logo_old.png)
 
 
 ## Build and Install ##
