@@ -1,16 +1,27 @@
-# Paella Player #
+Paella Player
+=============
 
-Paella (pronounced 'paeja') Player is the new HTML 5 multistream player, developed by the Universitat Politècnica de València. It is specially designed for lecture recordings, like Opencast Lectures or Polimedia pills.
+The Paella (pronounced 'paeja') Player is an HTML 5 multistream player, developed by the Universitat Politècnica de València.
+It is specially designed for lecture recordings, like [Opencast](https://opencast.org) lectures or Polimedia pills.
 
-Paella Player is capable of playing multiple audio & video streams synchronously and can be integrated into almost any video platform using it's powerfull and easy to use plugin's architecture.
+Paella Player is capable of playing multiple audio and video streams synchronously and can be integrated into almost any video platform
+using it's powerfull and easy to use plugin architecture.
 
-You can take your first contact with Paella going to [Paella Player Web Page](http://paellaplayer.upv.es).
+You can find out more about Paella on the [Paella Player Web Page](https://paellaplayer.upv.es).
 
 ![Paella Player Logo](./config/profiles/resources/paella_logo_old.png)
 
 
-## Build and Install ##
-
-To build Paella, please read the [documentation](https://paellaplayer.upv.es/docs/).
-
+Build and Install
+-----------------
 [![Build Status](https://travis-ci.org/polimediaupv/paella.svg?branch=master)](https://travis-ci.org/polimediaupv/paella)
+
+To build Paella, run:
+
+```sh
+% npm install
+% npm run build
+% npm run serve
+```
+
+You can get mor information about Paella and its development in the [documentation](https://paellaplayer.upv.es/docs/).
