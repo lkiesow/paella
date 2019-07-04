@@ -14,7 +14,6 @@ You can find out more about Paella on the [Paella Player Web Page](https://paell
 
 Build and Install
 -----------------
-[![Build Status](https://travis-ci.org/polimediaupv/paella.svg?branch=master)](https://travis-ci.org/polimediaupv/paella)
 
 To build Paella, run:
 
@@ -25,3 +24,5 @@ To build Paella, run:
 ```
 
 You can get mor information about Paella and its development in the [documentation](https://paellaplayer.upv.es/docs/).
+
+[![Build Status](https://travis-ci.org/polimediaupv/paella.svg?branch=master)](https://travis-ci.org/polimediaupv/paella)
